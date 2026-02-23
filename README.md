@@ -169,10 +169,11 @@ PUTCHAR_PROTOTYPE
 <img width="1919" height="1055" alt="Screenshot 2026-02-23 141505" src="https://github.com/user-attachments/assets/38830cb5-d6b5-41ef-8095-9f71cf5f14ba" />
  
 ## Circuit board :
- 
- ![WhatsApp Image 2026-02-23 at 3 04 54 PM](https://github.com/user-attachments/assets/2b41a2fe-ae3c-490b-b2db-70ae26f85cd8)
 
- ![WhatsApp Image 2026-02-23 at 3 04 53 PM](https://github.com/user-attachments/assets/e42860e7-34ff-47aa-a6b8-2d06881265de)
+![WhatsApp Image 2026-02-23 at 3 04 53 PM](https://github.com/user-attachments/assets/dd942aa4-9bad-4f2e-afc8-fae4b9e95e6d)
+
+ 
+![WhatsApp Image 2026-02-23 at 3 04 54 PM](https://github.com/user-attachments/assets/2b41a2fe-ae3c-490b-b2db-70ae26f85cd8)
 
 ## Result :
 Interfacing a  IR SENSOR and interrupt is generated using external interrupt mode , visualized on serial port 
