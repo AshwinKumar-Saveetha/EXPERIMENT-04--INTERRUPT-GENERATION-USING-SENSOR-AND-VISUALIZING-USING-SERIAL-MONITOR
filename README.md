@@ -170,8 +170,11 @@ PUTCHAR_PROTOTYPE
  
 ## Circuit board :
 
+### Object Detected:
+
 ![WhatsApp Image 2026-02-23 at 3 04 53 PM](https://github.com/user-attachments/assets/dd942aa4-9bad-4f2e-afc8-fae4b9e95e6d)
 
+### Object Not Detected:
  
 ![WhatsApp Image 2026-02-23 at 3 04 54 PM](https://github.com/user-attachments/assets/2b41a2fe-ae3c-490b-b2db-70ae26f85cd8)
 
